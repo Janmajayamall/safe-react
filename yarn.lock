@@ -1931,10 +1931,10 @@
   resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-deployments/-/safe-deployments-1.7.0.tgz#dd5fde901595545131d447888e327cc72e41d370"
   integrity sha512-OWc73XDBOJzoDk7GAQsasOxHnXKdJdOb28Jkv+JNie2LlRwZe1SMCu0iTozhwpLFp4BC+iDtuVWN7EVpe142ag==
 
-"@gnosis.pm/safe-deployments@^1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-deployments/-/safe-deployments-1.8.0.tgz#856c15517274f924539ea4df40fffe6f009249a7"
-  integrity sha512-xK2ZZXxCEGOw+6UZAeUmvqE/4C/XTpYmv1a8KzKUgSOxcGkHsIDqcjdKjqif7gOdnwHl4+XXJUtDQEuSLT4Scg==
+"@gnosis.pm/safe-deployments@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-deployments/-/safe-deployments-1.9.0.tgz#0fbe8ba10001b6b9c31abb603be8cb2cdbd78c06"
+  integrity sha512-PsBGlZDb2ZEm6DJEZMlezJ0C96rOo2+cyIwYM6LHzDZbq9qjN8y1L6b+B8f1nPbzRA7ebitA74xJpqjsMBKNwg==
 
 "@gnosis.pm/safe-react-components@^0.9.0":
   version "0.9.0"
