@@ -1,0 +1,2 @@
+(this["webpackJsonpsafe-react"]=this["webpackJsonpsafe-react"]||[]).push([[22],{886:function(e,t,a){"use strict";a.r(t),a.d(t,"SimpleLayout",(function(){return c}));var n=a(274),o=a(1);t.default={title:"Layout/WalletInfo",component:n.default};var c=function(){return Object(o.jsx)(n.default,{address:"0xEE63624cC4Dd2355B16b35eFaadF3F7450A9438B",granted:!0,safeName:"My Wallet",balance:"$111,111",onToggleSafeList:function(){return{}},onReceiveClick:console.log,onNewTransactionClick:console.log})}}}]);
+//# sourceMappingURL=22.26772b52.chunk.js.map
